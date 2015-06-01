@@ -19,5 +19,19 @@
   "bugs": {
     "url": "https://github.com/suitupalex/webpack-experiment/issues"
   },
-  "homepage": "https://github.com/suitupalex/webpack-experiment"
+  "homepage": "https://github.com/suitupalex/webpack-experiment",
+  "dependencies": {
+    "css-loader": "^0.14.4",
+    "csscomb-loader": "0.0.2",
+    "express": "^4.12.4",
+    "jade": "^1.10.0",
+    "jade-loader": "^0.7.1",
+    "json-loader": "^0.5.2",
+    "lodash": "^3.9.3",
+    "node-libs-browser": "^0.5.2",
+    "node-sass": "^3.1.2",
+    "sass-loader": "^1.0.2",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.9.10"
+  }
 }

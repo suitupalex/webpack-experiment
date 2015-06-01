@@ -1,0 +1,23 @@
+{
+  "name": "webpack-experiment",
+  "version": "0.1.0",
+  "description": "An experiment with webpack's programmatic usage.",
+  "main": "brain/stem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suitupalex/webpack-experiment"
+  },
+  "keywords": [
+    "webpack",
+    "node"
+  ],
+  "author": "Alexander Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suitupalex/webpack-experiment/issues"
+  },
+  "homepage": "https://github.com/suitupalex/webpack-experiment"
+}

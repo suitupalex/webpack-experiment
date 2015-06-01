@@ -13,6 +13,7 @@ The experiment uses express to serve pages with these bundles loaded in.
 * [JSON][5]
 * [SASS][6]
 * [Style][7]
+* [Uglify][8]
 
 ## Installation and Run
 ```bash
@@ -36,5 +37,5 @@ http://localhost:8080. Express will randomly point you to one of three endpoints
 [5]: https://github.com/webpack/json-loader
 [6]: https://github.com/jtangelder/sass-loader
 [7]: https://github.com/webpack/style-loader
-
+[8]: https://github.com/bestander/uglify-loader
 

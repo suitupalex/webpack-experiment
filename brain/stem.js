@@ -38,6 +38,7 @@
     compiler[test] = webpack({
       module: {
         loaders: [
+          {test: /\.js$/, loader: 'uglify'},
           {test: /\.scss$/, loader: 'style!css!sass!csscomb'},
           {test: /\.jade$/, loader: 'jade'},
           {test: /\.json$/, loader: 'json'}
